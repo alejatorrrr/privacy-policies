@@ -2,7 +2,7 @@
 
 **Desarrollador:** Alejator Games  
 **Última actualización:** 3 de noviembre de 2026  
-**Contacto de privacidad:** pendiente de publicar antes de distribuir la aplicación.
+**Contacto de privacidad:** [alejatorgames@gmail.com](mailto:alejatorgames@gmail.com).
 
 ## 1. Alcance
 Esta política describe el funcionamiento de la versión actual de PixelRPG. Las funciones anunciadas para futuras versiones no se consideran activas hasta su incorporación.
@@ -26,7 +26,7 @@ El público objetivo y la clasificación por edades se establecerán en Google P
 Esta política podrá actualizarse cuando cambien las funciones, permisos, servicios o prácticas de tratamiento de datos de PixelRPG. La fecha de actualización se indicará al inicio.
 
 ## 8. Contacto
-**Pendiente de completar:** dirección de correo electrónico de contacto del desarrollador antes de utilizar esta política como versión definitiva en Google Play.
+[alejatorgames@gmail.com](mailto:alejatorgames@gmail.com).
 
 ---
-**Estado del documento:** versión provisional pendiente de confirmar el correo de contacto, el público objetivo y los SDK/permisos efectivos del AAB distribuido.
+**Estado del documento:** pendiente de verificar el público objetivo y los SDK/permisos efectivos del AAB distribuido antes de la publicación.
